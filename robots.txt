@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Uncomment and update the following line after deploying to the final public URL
+# Sitemap: https://YOUR-PUBLIC-URL-HERE/sitemap.xml
